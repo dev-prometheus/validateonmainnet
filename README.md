@@ -1,1 +1,1 @@
-# dappdecentralized
+# validate on mainnet
